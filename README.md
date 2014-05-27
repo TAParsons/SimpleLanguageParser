@@ -1,4 +1,4 @@
 SimpleLanguageParser
 ====================
 
-Parser for simple language written for a class.
+Tokenizer and parser for the simple instructional language core. Written for a computer science class.
